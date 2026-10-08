@@ -1,0 +1,7 @@
+{
+  "name": "PlateUp! Web - 速速上菜",
+  "description": "經典合作廚房經營遊戲《速速上菜！》網頁版，體驗做菜、上菜、洗碗的流水線廚房管理與肉鴿升級樂趣！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
